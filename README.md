@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @nextu1337
 - 👀 I’m interested in node.js and batch
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning Go
