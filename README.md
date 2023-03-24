@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @nextu1337
-- been coding since 2014 and since summer of 2021 i am totally burned out despite not even having a job yet, not exactly a good thing
-- 👀 I’m interested in node.js and batch
-- 🌱 I’m currently learning Go
-### History
-Started out with Batch, VBScript and HTML in 2014 (I was around 9 years old). Not surprising at all... What got me to programming were those "How to make harmless virus in Batch" tutorials and "funny windows message boxes compilation" made using VBScript. I don't remember what got me into HTML but in 2018 my view of programming was changed by my dad telling me to focus on one language instead of jumping from one to another. For some reason I decided I want to learn PHP. So I did. After that programming started to make sense. I kinda feel bad for wasting those 4 years (2014-2018) not doing anything in particular, but better late than never.
-Throughout all those years I can gladly say I learned PHP, JavaScript, Luau (Roblox), C# .NET, Go and many more. In summer of 2022 I picked up interest in Batch. Its simplicity really interested me and I got really good at it quickly. While my biggest projects sadly are unfinished and probably never will be released due to 0 idea on how to fix some errors, some of the small ones are in the batch_scripts repository.
-I also know some x86 assembly (worked with 32 and 64 bit). What I like about it, is the fact that it's somewhat similar to Batch and it had me occupied through September and quite possibly October of 2022. As of now - I ran out of ideas on what to code, everything seems boring and repetitive.
-If you read it, thank you for your time.
+👋 Greetings, I'm @nextu1337, a self-taught programmer who has been coding since 2014. Despite not having a job yet, I've already experienced a serious burnout during the summer of 2021. However, I'm now more motivated than ever to pursue a career in the tech industry and showcase my skills.
+
+👀 My interests are focused on node.js and Go, and I'm currently learning Rust. I love the challenge of learning new technologies and exploring new possibilities in the world of programming.
+
+🌱 My journey began when I was just 9 years old, experimenting with Batch, VBScript, and HTML. I got hooked on programming through tutorials on creating harmless viruses in Batch and funny windows message boxes using VBScript. However, it wasn't until my dad encouraged me to focus on one language that I found my true passion for programming.
+
+I started with PHP, which helped me understand the fundamentals of programming, and then I delved into JavaScript, Luau (Roblox), C# .NET, and Go. I've also dabbled in x86 assembly, which I find fascinating because it's somewhat similar to Batch.
+
+My repository has some of my small projects, and although my biggest projects remain unfinished, they still showcase my creativity and problem-solving skills.
+
+As for the future, I'm excited to see what opportunities come my way. I'm open to collaborating on projects and taking on new challenges. I'm looking for a company that values creativity, innovation, and a positive work environment. Please, don't hesitate to contact me. Thank you for taking the time to read my profile.
