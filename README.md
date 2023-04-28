@@ -4,7 +4,7 @@
 
 🌱 My journey began when I was just 9 years old, experimenting with Batch, VBScript, and HTML. I got hooked on programming through tutorials on creating harmless viruses in Batch and funny windows message boxes using VBScript. However, it wasn't until my dad encouraged me to focus on one language that I found my true passion for programming.
 
-I started with PHP, which helped me understand the fundamentals of programming, and then I delved into JavaScript, Luau (Roblox), C# .NET, and Go. I've also dabbled in x86 assembly, which I find fascinating because it's somewhat similar to Batch and also very low-level.
+I started with PHP, which helped me understand the fundamentals of programming, and then I delved into JavaScript, Lua (Roblox), C# .NET, and Go. I've also dabbled in x86 assembly, which I find fascinating because it's somewhat similar to Batch and also very low-level.
 
 My repository has some of my small projects, and although my biggest projects remain unfinished, the ones present still showcase my creativity and problem-solving skills.
 
