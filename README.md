@@ -1,6 +1,6 @@
 👋 Greetings, I'm @nextu1337, a self-taught programmer who has been coding since 2014. Despite not having a job yet, I've already experienced a serious burnout during the summer of 2021. However, I'm now more motivated than ever to pursue a career in the tech industry and showcase my skills.
 
-👀 My interests are focused around node.js and Go, and I'm currently on-and-off learning Rust and as of April 2023, TypeScript. I love the challenge of learning new technologies and exploring new possibilities in the world of programming. The diversity of my repositories further proves this theory.
+👀 My interests are focused around <s>node.js</s> TypeScript and Go, and I'm currently on-and-off learning Rust. I love the challenge of learning new technologies and exploring new possibilities in the world of programming. The diversity of my repositories further proves this theory.
 
 🌱 My journey began when I was just 9 years old, experimenting with Batch, VBScript, and HTML. I got hooked on programming through tutorials on creating harmless viruses in Batch and funny windows message boxes using VBScript. However, it wasn't until my dad encouraged me to focus on one language that I found my true passion for programming.
 
