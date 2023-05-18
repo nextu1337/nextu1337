@@ -1,11 +1,16 @@
-👋 Greetings, I'm @nextu1337, a self-taught programmer who has been coding since 2014. Despite not having a job yet, I've already experienced a serious burnout during the summer of 2021. However, I'm now more motivated than ever to pursue a career in the tech industry and showcase my skills.
+## 👋 Hello there! I'm @nextu1337
+A mostly self-taught programmer, coding since the age of <b>9</b> <small>(2014)</small>. 
 
-👀 My interests are focused around <s>node.js</s> TypeScript and Go, and I'm currently on-and-off learning Rust. I love the challenge of learning new technologies and exploring new possibilities in the world of programming. The diversity of my repositories further proves this theory.
+### 👀 Languages
+In 2014, being so young I started with Batch and VBScript, starting out with harmless "viruses".<br>
+My knowledge includes, but is not limited to: node.js (lately mostly TypeScript), Go, C#, Java, PHP, Batch<br>
+<br>
+I am always happy to help or collaborate on ambitious projects. <br>
+Don't hesitate to contact me if anything!
 
-🌱 My journey began when I was just 9 years old, experimenting with Batch, VBScript, and HTML. I got hooked on programming through tutorials on creating harmless viruses in Batch and funny windows message boxes using VBScript. However, it wasn't until my dad encouraged me to focus on one language that I found my true passion for programming.
-
-I started with PHP, which helped me understand the fundamentals of programming, and then I delved into JavaScript, Lua (Roblox), C# .NET, and Go. I've also dabbled in x86 assembly, which I find fascinating because it's somewhat similar to Batch and also very low-level.
-
-My repository has some of my small projects, and although my biggest projects remain unfinished, the ones present still showcase my creativity and problem-solving skills.
-
-As for the future, I'm excited to see what it holds. I'm open to collaborating on projects, taking on new challenges and contributing to other people's work. Don't hesitate to contact me in case of anything. Thank you for taking the time to read my profile.
+### Donations
+Feeling generous and want to support me? Here's a list of ways to donate
+* NANO: `nano_3ujqppynxfakp59i99o75qkwi1dm6btox9gndegbnuyxpc53sw7ikmb1zp8z`
+* BTC: `bc1qsvsf3r87l9v7scudeennpm8s08xwsptlkqam78`
+* ETH: `0x42b7B2d73165aA584869c11181b1545E35b8b250`
+* SHIB: `0x42b7B2d73165aA584869c11181b1545E35b8b250`
