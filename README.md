@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/c0311e5f-5c75-43a8-9010-3580d2d4930a.svg)](https://wakatime.com/@c0311e5f-5c75-43a8-9010-3580d2d4930a)
 <!--
 **nextu1337/nextu1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
